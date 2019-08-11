@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "title": "long title",
+      "content": "Content for my post yay",
+      "id": 1
+    },
+    {
+      "title": "Hehe",
+      "content": "Haha",
+      "id": 2
+    },
+    {
+      "title": "Third blog post",
+      "content": "Third blog post ",
+      "id": 3
+    },
+    {
+      "title": "4th post",
+      "content": "Again ",
+      "id": 4
+    }
+  ]
+}
